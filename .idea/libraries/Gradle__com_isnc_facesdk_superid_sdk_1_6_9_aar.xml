@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.isnc.facesdk:superid-sdk:1.6.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/superid-sdk-1.6.9.aar/d2b11da9da460b8bab2e5f0a806f482c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/superid-sdk-1.6.9.aar/d2b11da9da460b8bab2e5f0a806f482c/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.isnc.facesdk/superid-sdk/1.6.9/516c35317190fa9034b8cd9e887b1c4fb268f75a/superid-sdk-1.6.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.isnc.facesdk/superid-sdk/1.6.9/152fa0456ba3e20506b497f4202bd368cc023025/superid-sdk-1.6.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Model.iml" filepath="$PROJECT_DIR$/Model.iml" group="Model" />
+      <module fileurl="file://$PROJECT_DIR$/app/Model-app.iml" filepath="$PROJECT_DIR$/app/Model-app.iml" group="Model/app" />
+      <module fileurl="file://$PROJECT_DIR$/ZhiXinApp.iml" filepath="$PROJECT_DIR$/ZhiXinApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

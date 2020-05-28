@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.qianwen:update-app:3.3.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/3d0d57e655444274c8dfae1e3817ef94/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/update-app-3.3.8.aar/3d0d57e655444274c8dfae1e3817ef94/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.qianwen/update-app/3.3.8/c5b1eb2c7f938f1640bcff3e741e25548c26ba73/update-app-3.3.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.qianwen/update-app/3.3.8/26a01cee9fccf092df405dfcddffb332f929b208/update-app-3.3.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
